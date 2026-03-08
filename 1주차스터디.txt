@@ -1,0 +1,11 @@
+git 명령어 정리
+git init
+git remote add 깃허브주소
+
+git pull origin main
+git branch -M main
+
+git checkout -b 브랜치명
+git add .
+git commit -m "커밋메시지"
+git push origin 브랜치명
